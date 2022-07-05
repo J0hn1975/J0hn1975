@@ -1,8 +1,6 @@
 ### Hi there 👋
- 
-  ### Welcome To My Github Home
 
-  ### I am a qualified full stack web developer looking for my first role in the coding space
+I have a Diploma in Full Stack Development from the Code Institute
 
   ---
 
