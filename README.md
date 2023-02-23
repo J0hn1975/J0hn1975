@@ -13,7 +13,10 @@ I have a Diploma in Full Stack Development from the Code Institute
   
   ---
   
-### My Programming Languages</h3>
+### My Tech Stack
+  
+#### I'm Currently Learning
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
