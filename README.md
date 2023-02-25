@@ -1,7 +1,10 @@
-### Hi there 👋
+ ## About me
 
-I have a Diploma in Full Stack Development from the Code Institute
+:wave: Hi there, I’m John. A Junior Software Developer, based on the UK's sunny South Coast.
 
+I have a diploma in Full Stack Web Development gained through the [Code Institute](https://www.codeinstitute.net). Looking to find my feet and embark on an exciting new career in the software development industry.
+
+A service desk technician by trade with over 20 years’ experience in the IT industry, I developed strong technical and customer service skills. I have spent many years supporting various operating systems, office packages and video conferencing technologies. One thing is for sure I definitely know my way round a PC!
 
   ---
 
