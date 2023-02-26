@@ -14,25 +14,18 @@ A service desk technician by trade with over 20 years’ experience in the IT in
 ## 🔧 Tools
 
 #### 👨‍💻 Programming languages
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 #### 📚 Libraries and Frameworks
-![React](https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=React&logoColor=CCC)
-![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
-![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
+![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
 
-#### 📖  Databases
+#### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
 
 #### Version Control, Hosting & and other tools 
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC) 
@@ -43,9 +36,8 @@ A service desk technician by trade with over 20 years’ experience in the IT in
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900) 
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF) 
 
-#### In progress
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-
+#### :man_student: Currently learning
+![React](https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=React&logoColor=CCC)
 ---
 
 ### Github Stats
