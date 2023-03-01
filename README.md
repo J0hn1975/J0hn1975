@@ -7,36 +7,24 @@ I have a diploma in Full Stack Web Development gained through the [Code Institut
 A service desk technician by trade with over 20 years’ experience in the IT industry, I developed strong technical and customer service skills. I have spent many years supporting various operating systems, office packages and video conferencing technologies. One thing is for sure I definitely know my way round a PC!
 
   ---
-<table>
-    <tbody border-radius=5>
-        <tr>
-            <td height=20><a href="https://medium.com/@zluvsand">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-            </a></td>
-            <td><a href="https://www.linkedin.com/in/zluvsand/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
-            </a></td>
-            <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
-            </a></td>
-        </tr>
-    </tbody>
-</table>
- 
-  ---
-  
-## 🔧 Tools
 
-#### 👨‍💻 Programming languages
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+## ⚡ Technologies
+
+#### 👨‍💻 Programming Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 #### 📚 Libraries and Frameworks
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
-![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 #### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 #### Version Control, Hosting & and other tools 
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC) 
@@ -48,18 +36,14 @@ A service desk technician by trade with over 20 years’ experience in the IT in
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF) 
 
 #### :man_student: Currently learning
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 ---
 
-### Github Stats
- 
-
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=j0hn1975&show_icons=true&theme=highcontrast)](https://github.com/j0hn1975)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0hn1975)
+## 📊 GitHub stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j0hn1975&layout=compact&theme=radical)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=j0hn1975.j0hn1975)
-
 
 ---
 
