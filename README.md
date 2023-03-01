@@ -1,4 +1,4 @@
- ## About me
+ ## :grey_question: About me
 
 :wave: **Hi there, I’m John. A Junior Software Developer, based on the UK's sunny South Coast.**
 
@@ -6,7 +6,9 @@
 
 **A service desk technician by trade with over 20 years’ experience in the IT industry, I developed strong technical and customer service skills. I have spent many years supporting various operating systems, office packages and video conferencing technologies. One thing is for sure I definitely know my way round a PC!**
 
-  ---
+**I decided to retrain software development and hope to develop my new found skills in the tech industry.**
+
+---
 
 ## ⚡ Technologies
 
@@ -24,7 +26,6 @@
 #### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 #### Version Control, Hosting & and other tools 
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC) 
